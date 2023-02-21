@@ -13,7 +13,7 @@ Used OpenCV for image pre-processing (improve the image quality by removing nois
 Keras is a high-level neural networks API built on top of TensorFlow, used Keras to provide a range of pre-built layers that can are easily combined.It is written in Python and is used to make the implementation of neural networks easy<br>
 
 TensorFlow can handle large datasets and is used to scale models across multiple devices, making it easier to train large models.<br>
-
+The TensorFlow platform helps you implement best practices for data automation, model tracking, performance monitoring, and model retraining.<br>
 ResNet uses a particular block called a residual block that allows the model to learn features from images, making it possible to create much deeper networks without encountering problems with vanishing gradients.<br>
 
 For downloading a_z_handwritten_data.csv using link :-<br>
