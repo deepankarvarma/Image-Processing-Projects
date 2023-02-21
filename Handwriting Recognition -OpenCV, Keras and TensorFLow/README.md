@@ -10,7 +10,7 @@ Trained the OCR model using Keras, TensorFlow, and deep learning architecture, R
 ## About different libraries and platforms used:-<br>
 Used OpenCV for image pre-processing (improve the image quality by removing noise and enhancing the contrast between the handwritten text and the background).<br>
 
-Keras is a high-level neural networks API built on top of TensorFlow, used Keras to provide a range of pre-built layers that can are easily combined.<br>
+Keras is a high-level neural networks API built on top of TensorFlow, used Keras to provide a range of pre-built layers that can are easily combined.It is written in Python and is used to make the implementation of neural networks easy<br>
 
 TensorFlow can handle large datasets and is used to scale models across multiple devices, making it easier to train large models.<br>
 
